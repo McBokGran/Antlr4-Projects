@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Calculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Calculator/gen.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Calculator/antlr-4.9.2-complete.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

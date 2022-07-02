@@ -1,0 +1,13 @@
+INT=1
+OPENINGBRACKET=2
+CLOSINGBRACKET=3
+MODEL=4
+DEFINEFUN=5
+BOX=6
+INTNAME=7
+WS=8
+'('=2
+')'=3
+'model'=4
+'define-fun'=5
+'Int'=7

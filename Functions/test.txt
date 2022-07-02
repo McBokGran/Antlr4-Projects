@@ -1,0 +1,19 @@
+
+def squared(n)
+println (n*n); 
+  return n*n; 
+end
+
+squared(3);
+
+def iphy(r)
+if(r > 2) do
+println (r*r);
+else do 
+println ('Too Low'); 
+end
+end
+
+iphy(6);
+
+iphy(1);
